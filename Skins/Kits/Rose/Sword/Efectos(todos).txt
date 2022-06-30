@@ -1,0 +1,75 @@
+===========================================================
+CustomEffectStatic
+===========================================================
+ (Alterar pelo índice do seu item adicionado)      32002	    1            0             1.0 0.4 1.0    0.6        0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    2            0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    3            0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    4           0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    5            0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    6           0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    7            0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    8            0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    9           0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    10           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    11           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    12          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    13          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    14            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    15            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    16           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    17          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    18           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    19          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    20            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    21            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    22          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    23           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    24           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    25          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    26          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    27            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    28            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    29            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    30          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    31            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    32           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    33            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    34           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    35           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    36           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    37          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    38          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    39          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    40           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    41            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    42            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    43           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    44            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    45           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    46            0            1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    47           0             1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    48          0              1.0 0.4 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    20            0            0.8 0.2 1.0    0.6       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    21            0            0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    22          0              0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    23           0             0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    24           0             0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    25          0              0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    26          0              0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    27            0            0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    28            0            0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    29            0            0.8 0.2 1.0    0.5       0.0         0.0
+ (Alterar pelo índice do seu item adicionado)      32002	    30          0              0.8 0.2 1.0    0.5       0.0         0.0
+
+
+===========================================================
+CustomEffectDynamic
+===========================================================
+
+(Alterar pelo índice do seu item adicionado)     	 32391   					52           0            0.8 		0.0 	0.6     0.2         0.5         0.5
+(Alterar pelo índice do seu item adicionado)       32387   					34           0            0.8 	        0.0 	0.6     0.2         0.5         0.5
+
+===========================================================
+CustomItem
+===========================================================
+(Alterar pelo índice do seu item adicionado)	0 0       0     "absolute02_sword"
