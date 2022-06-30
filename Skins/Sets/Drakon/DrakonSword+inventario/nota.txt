@@ -1,0 +1,3 @@
+el archivo DrakonSword.ozj colocarlo dentro de la carpeta player el resto en la carpeta item ya sea como item agregado o reemplazando.
+
+el archivo Sword35.bmd coresponde al bmd del inventario
